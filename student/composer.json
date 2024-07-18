@@ -1,0 +1,18 @@
+{
+    "name": "depak/depak",
+    "description": "just depaks idea",
+    "autoload": {
+        "psr-4": {
+            "Depak\\Depak\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "depak002021",
+            "email": "dk.101002098@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
